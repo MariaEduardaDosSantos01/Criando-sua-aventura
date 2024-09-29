@@ -1,0 +1,33 @@
+body {
+    background-color: #4a0258;
+    color: white;
+    font-family: "Fredoka", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #ad3cc4;
+    color: white;
+    font-family: "Fredoka", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
